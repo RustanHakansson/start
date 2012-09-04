@@ -13,7 +13,8 @@
         Rustan
     </author>
   
-    <feature name="http://api.phonegap.com/1.0/device" />
+    <feature name="http://api.phonegap.com/1.0/network"/>
+    <feature name="http://api.phonegap.com/1.0/notification"/>
 
     <preference name="phonegap-version" value="2.0.0" />
     <preference name="orientation"      value="default" />
