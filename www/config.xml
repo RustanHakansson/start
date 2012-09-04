@@ -12,7 +12,7 @@
     <author  email="rustan@boardgamegeek.com">
         Rustan
     </author>
-
+  
     <feature name="http://api.phonegap.com/1.0/device" />
 
     <preference name="phonegap-version" value="2.0.0" />
@@ -20,9 +20,9 @@
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
 
-    <icon src="icon.png" />
+    <icon src="icon.png" width="48" height="48" />
 
 
-    <gap:splash src="splash.png" />
+    <gap:splash src="splash.png" width="48" height="48" />
 
 </widget>
